@@ -6,6 +6,7 @@ It contains five customer analytics workshop
 
 ## Section 1: Customer Data Platform
 
+- [Customer Data Platform]([https://linktodocumentation](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section1%3A%20customer%20data%20platform/customerdataplatform.md))
 - Customer Data Platform
 
 - Customer Single View
