@@ -1,5 +1,5 @@
 
-## Topic Modeling
+# Topic Modeling
 
 ## 1) Project Objective:
 This project is dedicated to utilizing topic modeling techniques on audience comments from a YouTube post discussing "Comparing Digital Deposit Options in Thailand" by the Thai Financial Influencer, สรุปบัญชีเงินฝากออมทรัพย์ดอกเบี้ยสูงปี 2566 | ปีนี้ฝากเงินไว้ที่ไหนคุ้มที่สุด? [youtube link](https://www.youtube.com/watch?v=8NMStu52css)
@@ -19,7 +19,7 @@ Backgroud: Digital deposits are a newer deposit option offered by banks, featuri
 
 ![alt text](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section5%3A%20voice%20of%20customer/6.png)
 
-###Topics Covered:
+### Topics Covered:
 
 Topic0: Security and Account Access: Explore consumer concerns regarding the security of digital deposits, data privacy, difficulties in account opening without bank branches, and the conditions for earning high interest rates.
 
@@ -37,7 +37,7 @@ Topic3: Taxation Concerns: Examine concerns related to taxation, specifically th
 
 ![alt text](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section5%3A%20voice%20of%20customer/5.png)
 
-#4) ฺBusiness Recommendation 👩‍💻
+## 4) Business Recommendation 👩‍💻
 
 By understanding these insights, bank strategists can address customer concerns in:<br />
 1) Topics 0 and 3:<br />
