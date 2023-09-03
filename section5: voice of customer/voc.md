@@ -5,7 +5,7 @@
 This project is dedicated to utilizing topic modeling techniques on audience comments from a YouTube post discussing "Comparing Digital Deposit Options in Thailand" by the Thai Financial Influencer, สรุปบัญชีเงินฝากออมทรัพย์ดอกเบี้ยสูงปี 2566 | ปีนี้ฝากเงินไว้ที่ไหนคุ้มที่สุด? [youtube link](https://www.youtube.com/watch?v=8NMStu52css)
 
 
---pic1
+![alt text](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section5%3A%20voice%20of%20customer/1.png)
 
 Our objective is to extract valuable insights and discover underlying themes within these comments. By doing so, we aim to provide banks with the necessary information to formulate effective strategies for the launch of new digital banking products.
 
@@ -17,25 +17,27 @@ Backgroud: Digital deposits are a newer deposit option offered by banks, featuri
 
 ## 3) Results Analysis
 
+![alt text](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section5%3A%20voice%20of%20customer/6.png)
+
 ###Topics Covered:
 
 Topic0: Security and Account Access: Explore consumer concerns regarding the security of digital deposits, data privacy, difficulties in account opening without bank branches, and the conditions for earning high interest rates.
 
---pic2
+![alt text](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section5%3A%20voice%20of%20customer/2.png)
 
 Topic1: Interest Rate Comparison: Analyze and compare interest rates offered by various banks.
 
---pic3
+![alt text](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section5%3A%20voice%20of%20customer/3.png)
 
 Topic2: Benefits of Digital Deposits: Understand why customers choose digital deposit banking, including the convenience accessing their accounts anytime, anywhere, and the added flexibility of some banks permitting transactions through 7-11 outlets.
 
---pic4
+![alt text](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section5%3A%20voice%20of%20customer/4.png)
 
 Topic3: Taxation Concerns: Examine concerns related to taxation, specifically the tax obligations when receiving deposit interest exceeding 20,000 baht.
 
---pic5
+![alt text](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section5%3A%20voice%20of%20customer/5.png)
 
-#4) ฺBusiness Recommendation
+#4) ฺBusiness Recommendation 👩‍💻
 
 By understanding these insights, bank strategists can address customer concerns in:
     1) Topics 0 and 3:
