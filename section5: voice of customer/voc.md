@@ -39,12 +39,12 @@ Topic3: Taxation Concerns: Examine concerns related to taxation, specifically th
 
 #4) ฺBusiness Recommendation 👩‍💻
 
-By understanding these insights, bank strategists can address customer concerns in:
-    1) Topics 0 and 3:
-    - Enhancing Security: Implement robust security measures for digital deposit accounts, including two-factor authentication, encryption, and security audits. Clearly communicate these measures to build customer trust.
-    - Streamlining Account Opening: Simplify and expedite the digital account opening process for user-friendliness. Offer online assistance for customers facing setup difficulties.
-    2) Topic 1:
-    - High-Interest Rates: Periodically review and adjust interest rates to maintain competitiveness.
-    3) Topic2: 
+By understanding these insights, bank strategists can address customer concerns in:<br />
+1) Topics 0 and 3:<br />
+    - Enhancing Security: Implement robust security measures for digital deposit accounts, including two-factor authentication, encryption, and security audits. Clearly communicate these measures to build customer trust.<br />
+    - Streamlining Account Opening: Simplify and expedite the digital account opening process for user-friendliness. Offer online assistance for customers facing setup difficulties.<br />
+2) Topic 1:<br />
+    - High-Interest Rates: Periodically review and adjust interest rates to maintain competitiveness.<br />
+3) Topic2: <br />
     - Utilizing 7-11 Outlets: Explore partnerships with 7-11 stores to expand digital banking accessibility.
 
