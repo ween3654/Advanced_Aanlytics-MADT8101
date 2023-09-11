@@ -11,6 +11,8 @@ dataset for our workshop. The primary objective is to bolster overall supermarke
 2. Customer Single View 🧑: to understand customer behaviour, we group data base on 'CUST_CODE' to a single of each customer and aggregate metics like total spend, average quantity for each customer
 3. Customer Segmentation 🔰: group customer based on their behaviour to provide business suggest to marketing team to increase supermarekt overall revenue.
 
+## Pythone Code >>>  [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WM91RQ1u2oLfDujjo1k8x0F_pfaCdVoX#scrollTo=17po5dE8Wqul)
+
 ## Part1: EDA ⛳
 In this step, we will get a basic understanding of dataset struture
 Check missing value, generate basic statistic, visualizations to understand the distributions and relationships in the data
