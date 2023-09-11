@@ -51,11 +51,11 @@ To prepare customer single, we will remove rows with missing 'CUST_CODE' values,
 
 ⚡ The customer single view has been prepared. Here are breakdown of the columns: * CUST_CODE: Unique customer code
 
-SPEND_sum: Total amount spent by the customer
-SPEND_mean: Average amount spent by the customer per shopping trip
-QUANTITY_sum: Total quantity of items purchased by the customer
-QUANTITY_mean: Average quantity of items purchased by the customer per shopping trip
-NUM_SHOP_TRIPS: Number of shopping trips made by the cusotmer
+SPEND_sum: Total amount spent by the customer <br>
+SPEND_mean: Average amount spent by the customer per shopping trip <br>
+QUANTITY_sum: Total quantity of items purchased by the customer <br>
+QUANTITY_mean: Average quantity of items purchased by the customer per shopping trip <br>
+NUM_SHOP_TRIPS: Number of shopping trips made by the cusotmer <br>
 
 
 ## Part3: Customer Segmentaion using K-means
