@@ -6,7 +6,7 @@
 
 
 
-## Steps to Create a CDP
+## Steps to Create a CDP 📑
 
 - Identify Use Cases: Clearly define the specific business decisions you intend to make using the CDP. Common use cases include customer segmentation, personalized product recommendations, customer scoring for upselling and cross-selling, and targeted marketing efforts.
 
@@ -19,4 +19,4 @@
 - Actionable Strategies: Based on the insights gained, develop strategies and initiatives that align with your business goals. This might involve crafting personalized marketing campaigns, refining customer experiences, or optimizing product offerings.
 
 ## Example of CDP in Banking Data:
-![alt text](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section1%3A%20customer%20data%20platform/week1.png)
+![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section1.1_Customer%20Data%20Platform/pic/week1.png)
