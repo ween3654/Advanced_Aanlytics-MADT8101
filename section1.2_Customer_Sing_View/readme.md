@@ -3,8 +3,7 @@
 📌
 This feature integrates all relevant customer data - including their profile, transaction history, and preferences from various sources. It consolidates this data into a single row for each customer. This makes it a powerful tool for analysts and data scientists looking to understand customer behavior. By leveraging this integrated data, businesses can formulate strategies such as attracting new customers, boosting sales, or developing new products.
 ![test](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section1.2_Customer_Sing_View/pic/1.jpg)
-
- [Picture Reference:](https://www.marketingweek.com/seven-step-guide-in-undertaking-a-single-customer-view-project/)
+[Picture Reference:](https://www.marketingweek.com/seven-step-guide-in-undertaking-a-single-customer-view-project/)
 
 # Workshop 
 
