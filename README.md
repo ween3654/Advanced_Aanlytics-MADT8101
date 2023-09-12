@@ -13,7 +13,7 @@
 - [Customer Churn](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section3%3A%20Churn%20Prediciton/readme.md)
 
 ## Section 4: Customer Segmentation and Product Recommendation
-- [ustomer Segmentation and Product Recommendation](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/readme.md)
+- [Customer Segmentation and Product Recommendation](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/readme.md)
 
 ## Section 5: Voice of Customer 
 - [Voice of Customer](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section5%3A%20voice%20of%20customer/voc.md)
