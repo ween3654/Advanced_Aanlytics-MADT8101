@@ -22,7 +22,9 @@ Goal: To increase HDI revenue
 
 ▶️ First Step: Data preperation
 
-![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/1_data_prep.png)
+<p align="center">
+  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/1_data_prep.png" width="500" height="300" alt="Your Image Alt Text">
+</p>
 
 Because data kept in transaction form, we union all transaction file and then group data into customer single view. 
 
@@ -37,17 +39,24 @@ The feature we select to do clustering consisting of
 
 Then, prepare the data for K-Means clustering by transforming to follow a more Gaussian Distribution.
 
-![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/2_Gaussian_transform.png)
+<p align="center">
+  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/2_Gaussian_transform.png" width="700" height="500" alt="Your Image Alt Text">
+</p>
 
 ▶️ 2nd Step: Clustering using Autoencoder
 
 First, Determine the number of customer data clusters using the Elbow Method based on the chart. The appropriate number of clusters for the dataset should be divided into 4 clusters (k=4).
 
-![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/3_kmethod.png)
+<p align="center">
+  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/3_kmethod.png" width="500" height="300" alt="Your Image Alt Text">
+</p>
 
 Then we use "Autoencoders" for clustering customers. It is an unsuperivsed Artificial Neural Network that attempts to encode the data by compressing it into the lower dimension and decoding the data to reconstruct the original input. The bottleneck layer holds the compressed representation of the input data.
 
-![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/4_segmentation_result.png)
+<p align="center">
+  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/4_segmentation_result.png" width="500" height="300" alt="Your Image Alt Text">
+</p>
+
 
 ▶️ 3nd Step: Interpret the Result
 
