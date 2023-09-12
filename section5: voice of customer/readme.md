@@ -6,7 +6,7 @@ This project is dedicated to utilizing topic modeling techniques on audience com
 
 
 <p align="center">
-  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/raw/main/section5%3A%20voice%20of%20customer/1.png" width="700" height="300" alt="Your Image Alt Text">
+  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/raw/main/section5%3A%20voice%20of%20customer/1.png" width="500" height="300" alt="Your Image Alt Text">
 </p>
 
 
