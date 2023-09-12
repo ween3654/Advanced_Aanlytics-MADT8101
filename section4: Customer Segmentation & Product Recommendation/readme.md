@@ -1,4 +1,4 @@
-![image](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/assets/89564116/52bc9712-5270-437d-a33c-03778f1c5b2b)# Customer Segmentation and product recommendation
+# Customer Segmentation and product recommendation
 
 ## 🏕️ Part1: Customer Segmentation: 
 The the process of divide customers into groups based on same characteristic or behaviors. Business can design product or services that corresponding  of each customer behaviors’ group.
