@@ -32,7 +32,8 @@ Then, transform the data for K-Means clustering by adjusting it to follow a Gaus
 >> Determine the number of customer data clusters using the Elbow Method based on the chart. The appropriate number of clusters for the dataset should be divided into 4 clusters (k=4).
  -- pic3--
 
-
+Then we use "Autoencoders" for clustering customers. It is an unsuperivsed Artificial Neural Network that attempts to encode the data by compressing it into the lower dimension and decoding the data to reconstruct the original input. The bottleneck layer holds the compressed representation of the input data.
+--pic4--
 
      
 
