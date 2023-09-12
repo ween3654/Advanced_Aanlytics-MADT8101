@@ -5,13 +5,14 @@
 This project is dedicated to utilizing topic modeling techniques on audience comments from a YouTube post discussing "Comparing Digital Deposit Options in Thailand" by the Thai Financial Influencer, สรุปบัญชีเงินฝากออมทรัพย์ดอกเบี้ยสูงปี 2566 | ปีนี้ฝากเงินไว้ที่ไหนคุ้มที่สุด? [youtube link](https://www.youtube.com/watch?v=8NMStu52css)
 
 
-<img src = "https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section5%3A%20voice%20of%20customer/1.png" width = 300 height =300>
+<img src = "https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section5%3A%20voice%20of%20customer/1.png" width = 400 height =300>
 
 Our objective is to extract valuable insights and discover underlying themes within these comments. By doing so, we aim to provide banks with the necessary information to formulate effective strategies for the launch of new digital banking products.
 
 ## 2) Topic Modeling
 
-[Notebook](https://colab.research.google.com/drive/1KyidpPXwPHZCONkaLXK3H_MuAAxiJ7Xi#scrollTo=OrHLdx3iwiUR) 
+[Notebook](https://drive.google.com/file/d/1KyidpPXwPHZCONkaLXK3H_MuAAxiJ7Xi/view?usp=drive_link) 
+[Dataset](https://drive.google.com/file/d/1a9wLcBMfHs1MYXE00gE6lg5gxTEsaEhM/view?usp=sharing) 
 
 Backgroud: Digital deposits are a newer deposit option offered by banks, featuring higher interest rates compared to traditional deposits. However, customers can only conduct transactions using self-service machines or mobile banking due to the absence of physical bank branches. This allows banks to offer better interest rates due to reduced operational costs.
 
