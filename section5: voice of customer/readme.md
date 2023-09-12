@@ -5,7 +5,10 @@
 This project is dedicated to utilizing topic modeling techniques on audience comments from a YouTube post discussing "Comparing Digital Deposit Options in Thailand" by the Thai Financial Influencer, สรุปบัญชีเงินฝากออมทรัพย์ดอกเบี้ยสูงปี 2566 | ปีนี้ฝากเงินไว้ที่ไหนคุ้มที่สุด? [youtube link](https://www.youtube.com/watch?v=8NMStu52css)
 
 
-<img src = "https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section5%3A%20voice%20of%20customer/1.png" width = 400 height =300>
+<p align="center">
+  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/raw/main/section5%3A%20voice%20of%20customer/1.png" width="700" height="300" alt="Your Image Alt Text">
+</p>
+
 
 Our objective is to extract valuable insights and discover underlying themes within these comments. By doing so, we aim to provide banks with the necessary information to formulate effective strategies for the launch of new digital banking products.
 
