@@ -58,12 +58,12 @@ Customer scoring is a way to rank and prioritize your customers based on specifi
 Above picture is criteria which is customer behaviour that are valueble to Agoda Platforms. 
 Now, let's score a hypothetical customer:
 
-Made 5 bookings this year = 5 x 2 = 10 points
-Average booking value of $250 = 5 points
-Gave two 5-star reviews = 2 x 3 = 6 points
-Visits the website/app weekly = 1 point
-Did not book in the last month = 0 points
-Total score for the customer = 10 + 5 + 6 + 1 = 22 points
+Made 5 bookings this year = 5 x 2 = 10 points <br>
+Average booking value of $250 = 5 points <br>
+Gave two 5-star reviews = 2 x 3 = 6 points <br>
+Visits the website/app weekly = 1 point <br>
+
+Total score for the customer = 10 + 5 + 6 + 1 = 22 points <br>
 
 Based on this score, you might classify this customer as 'medium-value'.
 
