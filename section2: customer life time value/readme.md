@@ -41,3 +41,42 @@ ACL (On average, a customer uses Agoda for 5 years)
   CLV = $200*3*5 = $3,000 
  
 In this simplified example, the average customer would be worth $3,000 to Agoda over their lifespan as a customer.
+
+## What's next Step?  Take action!
+ Tiered Loyalty System Based on CLV:
+Divide the loyalty program into multiple tiers, with each tier being determined by a customer's estimated CLV.
+
+[](...pic3....)
+
+Benefits and privileges increase as customers move up tiers. This incentivizes users to spend more to move up a tier and reap better benefits.
+
+## 🎯 Part2:  Customer Scoring
+Customer scoring is a way to rank and prioritize your customers based on specific criteria, which can be derived from their behaviors, engagement, and purchase history. It helps businesses target their marketing and customer relationship efforts more efficiently.
+
+[](...pic4....)
+
+Above picture is criteria which is customer behaviour that are valueble to Agoda Platforms. 
+Now, let's score a hypothetical customer:
+
+Made 5 bookings this year = 5 x 2 = 10 points
+Average booking value of $250 = 5 points
+Gave two 5-star reviews = 2 x 3 = 6 points
+Visits the website/app weekly = 1 point
+Did not book in the last month = 0 points
+Total score for the customer = 10 + 5 + 6 + 1 = 22 points
+
+Based on this score, you might classify this customer as 'medium-value'.
+
+Once we have scores for all customers, segment them (e.g., into high-value, medium-value, and low-value) to tailor your marketing and customer relationship efforts.
+
+## To conclude....
+How can we Utilize both CLV and customer scoring to craft personalized offers.
+
+### 🚀 For high CLV, low scoring customers: 
+  These are customers who've spent a lot but are not very engaged. They might benefit from exclusive deals or early access to new features to increase their engagement.
+### 💼 For low CLV, high scoring customers: 
+  These are highly engaged customers who haven't spent much. They might benefit from discounts or cash-back offers to encourage more bookings.
+
+
+
+
