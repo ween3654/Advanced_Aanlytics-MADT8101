@@ -5,9 +5,15 @@
 ▶️ The primary goal of churn prediction is to proactively identify at-risk customers so that businesses can take targeted actions to prevent them from leaving. 
 
 ## Workshop: 
-Churn prediction using 'Supermarket.csv' dataset
-....<link csv.>....
-....<python code>
+📘 To better grasp this idea, we'll be using the 'supermarket' 
+[dataset](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section1.2_Customer_Sing_View/pic/supermarket.zip)
+
+<br>
+
+### 💾 Pythone Code >>>  [Code]([https://colab.research.google.com/drive/1WM91RQ1u2oLfDujjo1k8x0F_pfaCdVoX#scrollTo=17po5dE8Wqul](https://colab.research.google.com/drive/13SrcVFWZ2egVO7UCeqxs7cj-xio5XDQY#scrollTo=XDiBgQs7Yv_h))
+
+<br>
+
 
 There are mainly two steps to do this:
 
