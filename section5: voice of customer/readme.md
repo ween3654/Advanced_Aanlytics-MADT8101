@@ -6,7 +6,7 @@ This project is dedicated to utilizing topic modeling techniques on audience com
 
 
 <p align="center">
-  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/raw/main/section5%3A%20voice%20of%20customer/1.png" width="500" height="300" alt="Your Image Alt Text">
+  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/raw/main/section5%3A%20voice%20of%20customer/1.png" width="450" height="300" alt="Your Image Alt Text">
 </p>
 
 
@@ -14,7 +14,7 @@ Our objective is to extract valuable insights and discover underlying themes wit
 
 ## 2) Topic Modeling
 
-[Notebook](https://drive.google.com/file/d/1KyidpPXwPHZCONkaLXK3H_MuAAxiJ7Xi/view?usp=drive_link) 
+[Notebook](https://drive.google.com/file/d/1KyidpPXwPHZCONkaLXK3H_MuAAxiJ7Xi/view?usp=drive_link) <br>
 [Dataset](https://drive.google.com/file/d/1a9wLcBMfHs1MYXE00gE6lg5gxTEsaEhM/view?usp=sharing) 
 
 Backgroud: Digital deposits are a newer deposit option offered by banks, featuring higher interest rates compared to traditional deposits. However, customers can only conduct transactions using self-service machines or mobile banking due to the absence of physical bank branches. This allows banks to offer better interest rates due to reduced operational costs.
