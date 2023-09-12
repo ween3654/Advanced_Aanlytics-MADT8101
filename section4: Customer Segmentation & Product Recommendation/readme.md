@@ -41,6 +41,25 @@ Then we use "Autoencoders" for clustering customers. It is an unsuperivsed Artif
 
 ![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/4_segmentation_result.png)
 
+▶️ 3nd Step: Interpret the Result
+
+Cluster 0 :  Sporadic Seekers 
+sporadically seek out online shopping opportunities but don't make purchases frequently.
+
+Cluster 1 : Discount Devotees 
+highly responsive to discounts and actively seek out promotional offers, resulting in frequent purchases and
+higher average spending.
+
+Cluster 2 : Discretionary buyers 
+price-sensitive and only buy when they see a good deal. They are not easily persuaded by marketing or advertising,
+and they tend to have a low average spending.
+
+Cluster 3 : Affluent Buyers 
+selective in their purchasing behavior and tend to spend significantly when they do make a purchase. They have a
+pattern of returning to repurchase relatively soon and enjoy the experience of shopping at offline stores.
+
+--pic5--
+
 
 
      
