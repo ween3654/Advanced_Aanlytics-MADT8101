@@ -38,7 +38,7 @@ We need to preparation as a customer single view, 1 customer 1 row. For feature 
 - Number of shopping trips
 - Last shopping date
 
---- Insure pic----
+![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section3%3A%20Churn%20Prediciton/pic/1_customer_single_view.png)
 
 Before we train model, we adjusted imbalanced data by undersampling data. The total data before train model contains 2,634 customers which contains class (1: Churn) and (0: not Churn) 1,317 each equally.
 
@@ -51,7 +51,8 @@ From the result, this means the model correctly predicted the class for 52% of t
 
 ### 💐 Based on this model, what factors influence churn behaviour?
 
----pic2---
+
+![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section3%3A%20Churn%20Prediciton/pic/2_feature_important.png)
 
 From the plot and the table, we can make the following observations regarding feature importance:
 
