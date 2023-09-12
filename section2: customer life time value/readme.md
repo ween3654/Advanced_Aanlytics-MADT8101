@@ -42,7 +42,7 @@ APV (Average booking value on Agoda) = $200
 APF (Customers book three times a year) = 3
 ACL (On average, a customer uses Agoda for 5 years)
 
-  CLV = $200*3*5 = $3,000 
+  CLV = $200x 3x 5 = $3,000 
  
 In this simplified example, the average customer would be worth $3,000 to Agoda over their lifespan as a customer.
 
