@@ -13,7 +13,12 @@ HDI is a networking marketing business, located in multiple countries in South E
   (4) transaction2023 Transaction data 362,109 records
 
 ▶️ First Step: Data preperation
-Because data kept in transaction form, we union all transaction file and then group data into customer single view. The feature we select to do clustering consisting of 
+
+![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/1_data_prep.png)
+
+Because data kept in transaction form, we union all transaction file and then group data into customer single view. 
+
+The feature we select to do clustering consisting of 
 
   1) Frequency: Number of times a customer purchases products within a period of 1 year.
   2) Avg. Spending: average purchase amount per time (Total amount/frequency)
@@ -24,16 +29,19 @@ Because data kept in transaction form, we union all transaction file and then gr
 
 Then, transform the data for K-Means clustering by adjusting it to follow a Gaussian Distribution.
 
---pic21--
----pic2---
+![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/2_Gaussian_transform.png)
 
 ▶️ 2nd Step: Clustering using Autoencoder
 
->> Determine the number of customer data clusters using the Elbow Method based on the chart. The appropriate number of clusters for the dataset should be divided into 4 clusters (k=4).
- -- pic3--
+First, Determine the number of customer data clusters using the Elbow Method based on the chart. The appropriate number of clusters for the dataset should be divided into 4 clusters (k=4).
+
+![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/3_kmethod.png)
 
 Then we use "Autoencoders" for clustering customers. It is an unsuperivsed Artificial Neural Network that attempts to encode the data by compressing it into the lower dimension and decoding the data to reconstruct the original input. The bottleneck layer holds the compressed representation of the input data.
---pic4--
+
+![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/4_segmentation_result.png)
+
+
 
      
 
