@@ -16,7 +16,9 @@ In today's competitive marketplace, understanding your customer is crucial. Two 
 1) Despite having a robust customer base, Agoda's loyalty program, which takes the form of a points-based system for each booking made. It Consider only customer booking frequency history just one aspect.
 2) This system doesn't yet capitalize on the depth of customer insights that could be drawn from their booking and travel patterns.
 
-![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section2%3A%20customer%20life%20time%20value/pic/1_current_loyalty_program.PNG)
+<p align="center">
+  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section2%3A%20customer%20life%20time%20value/pic/1_current_loyalty_program.PNG" width="700" height="400" alt="Your Image Alt Text">
+</p>
 
 💡 Proposed Solution 
 To optimize the loyalty program, Agoda can:
@@ -25,7 +27,9 @@ To optimize the loyalty program, Agoda can:
 
 ## 📈 Part1: Customer Lifetime Value (CLV) 
 
-![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section2%3A%20customer%20life%20time%20value/pic/2_new_clv_integration.PNG)
+<p align="center">
+  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section2%3A%20customer%20life%20time%20value/pic/2_new_clv_integration.PNG" width="700" height="400" alt="Your Image Alt Text">
+</p>
 
 Above picutre is concept how to calcuate Customer Lifetime Value (CLV). However, CLV can (and should) be refined by taking other factors into account, such as:
 - Discount Rate: To account for the present value of future profits.
@@ -46,14 +50,18 @@ In this simplified example, the average customer would be worth $3,000 to Agoda 
  Tiered Loyalty System Based on CLV:
 Divide the loyalty program into multiple tiers, with each tier being determined by a customer's estimated CLV.
 
-![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section2%3A%20customer%20life%20time%20value/pic/3_new_loyalty_score.PNG)
+<p align="center">
+  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section2%3A%20customer%20life%20time%20value/pic/3_new_loyalty_score.PNG" width="700" height="400" alt="Your Image Alt Text">
+</p>
 
 Benefits and privileges increase as customers move up tiers. This incentivizes users to spend more to move up a tier and reap better benefits.
 
 ## 🎯 Part2:  Customer Scoring
 Customer scoring is a way to rank and prioritize your customers based on specific criteria, which can be derived from their behaviors, engagement, and purchase history. It helps businesses target their marketing and customer relationship efforts more efficiently.
 
-![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section2%3A%20customer%20life%20time%20value/pic/4_Customer_Scoring.PNG)
+<p align="center">
+  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section2%3A%20customer%20life%20time%20value/pic/4_Customer_Scoring.PNG" width="700" height="400" alt="Your Image Alt Text">
+</p>
 
 Above picture is criteria which is customer behaviour that are valueble to Agoda Platforms. 
 Now, let's score a hypothetical customer:
