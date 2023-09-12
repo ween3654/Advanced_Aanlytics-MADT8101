@@ -60,11 +60,11 @@ Cluster 3 : Affluent Buyers
 selective in their purchasing behavior and tend to spend significantly when they do make a purchase. They have a
 pattern of returning to repurchase relatively soon and enjoy the experience of shopping at offline stores.
 
---pic5--
+![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/5_cluster_profile.png)
 
---pic6-- movement
+![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/6_Customer_movement.png)
+
 The picutre aboved show customer cluster movement over the time. 
-
 
 By knowing this, it can be valuable for various businesses in several ways:
   1) Marketing Campaign Optimization: Businesses can tailor their marketing campaigns and messaging based on the shifting preferences and behaviors of different customer clusters. This ensures that marketing efforts remain relevant and effective.
@@ -80,14 +80,15 @@ It is a personalized marketing strategy that suggests specific products or servi
 
 we use the same dataset, the different is in the data preperation process, we have to prepare data in form of customer and flag each prodcut in each columns
 
-
---pic7--
+![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/7_data_for_product_recommend.png)
 
 Two algorithm that were used are as following:
 
---pic8--
+![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/8_collaborative_filering.png)
 
---pic9--
+![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/9_NMP.png)
+
+HDI can benefit from product recommendation and customer segmentation by increasing sales through personalized product suggestions, enhancing customer engagement, and optimizing marketing efforts based on different customer preferences and behaviors. This approach fosters customer loyalty, reduces cart abandonment, and improves inventory management, ultimately leading to more effective and efficient operations and increased revenue.
 
 
 
