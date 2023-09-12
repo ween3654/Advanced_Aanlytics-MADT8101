@@ -34,7 +34,9 @@ For EDA, let focus on the following aspect
 > - Popular 'SHOP_HOUR': to understand peak shopping times <br>
 > - Breakdown of 'BASKET_TYPE: to see the common shopping types <br>
 
-![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section1.2_Customer_Sing_View/pic/2_eda_result.png)
+<p align="center">
+  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section1.2_Customer_Sing_View/pic/2_eda_result.png" width="700" height="450" alt="Your Image Alt Text">
+</p>
 
 ⛪ From the exploratory data analysis, we can derive the following insights:
 - Distribution of SPEND 💸: Most of purchase are clusterd around lower end, indicate that customer tend to make a smaller purchases. These are a few larger purchases, but they are less frequent.
@@ -45,7 +47,9 @@ For EDA, let focus on the following aspect
 ## Part2: Customer Single View ⛳
 To prepare customer single, we will remove rows with missing 'CUST_CODE' values, group the data based on 'CUST_CODE' to get a single view of customer and aggregate metrics like total spend, average spend, total quantity, average quantity for each cusotmer
 
-![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section1.2_Customer_Sing_View/pic/3_customer_single_view.png)
+<p align="center">
+  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section1.2_Customer_Sing_View/pic/3_customer_single_view.png" width="700" height="450" alt="Your Image Alt Text">
+</p>
 
 ⚡ The customer single view has been prepared. Here are breakdown of the columns: * CUST_CODE: Unique customer code
 
@@ -60,9 +64,14 @@ NUM_SHOP_TRIPS: Number of shopping trips made by the cusotmer <br>
 In this step, we will scale the features to ensure they have equal weight dring clustering,
 determine the optimal number of clustering using the Elbow method, use K-Means algorithm for customer segmentation, provide business Recommendation for each segment to increase supermarket sales
 
-![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section1.2_Customer_Sing_View/pic/4_elbow_method.png)
+<p align="center">
+  <img src="https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section1.2_Customer_Sing_View/pic/4_elbow_method.png" width="700" height="450" alt="Your Image Alt Text">
+</p>
 
-♒The Elbow method suggests that optimal number of clusters is around 3 or 4, as the reduction in inertia starts to level off after that point. For our analysis, we will proceed with 4 clusters.
+♒The Elbow method suggests that optimal number of clusters is around 3 or 4, as the reduction in inertia starts to level off after that point. 
+<br>
+
+For our analysis, we will proceed with 4 clusters.
 
 ![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section1.2_Customer_Sing_View/pic/5_cluster_profile.png)
 
