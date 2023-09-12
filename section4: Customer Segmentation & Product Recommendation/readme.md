@@ -35,7 +35,7 @@ The feature we select to do clustering consisting of
   5) Offline ratio: Proportion of the number of times purchased through offline channels compared to the total number of times purchased.
   6) Online ratio: Proportion of the number of times purchased through online channels compared to the total number of times purchased.
 
-Then, transform the data for K-Means clustering by adjusting it to follow a Gaussian Distribution.
+Then, prepare the data for K-Means clustering by transforming to follow a more Gaussian Distribution.
 
 ![](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/blob/main/section4%3A%20Customer%20Segmentation%20%26%20Product%20Recommendation/pic/2_Gaussian_transform.png)
 
