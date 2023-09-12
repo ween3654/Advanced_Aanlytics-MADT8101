@@ -1,10 +1,12 @@
-# Customer Segmentation and product recommendation
+![image](https://github.com/ween3654/Advanced_Aanlytics-MADT8101/assets/89564116/52bc9712-5270-437d-a33c-03778f1c5b2b)# Customer Segmentation and product recommendation
 
 ## 🏕️ Part1: Customer Segmentation: 
 The the process of divide customers into groups based on same characteristic or behaviors. Business can design product or services that corresponding  of each customer behaviors’ group.
 
 ## Workshop
 HDI is a networking marketing business, located in multiple countries in South East Asia. Its products are honey, propolis, royal jelly and pollen etc.
+
+Goal: To increase HDI revenue
 
 💠 Dataset: used in this Workshop has 4 files consisting of 
   (1) member data: customer information and membership date 590,566 records 
@@ -59,6 +61,38 @@ selective in their purchasing behavior and tend to spend significantly when they
 pattern of returning to repurchase relatively soon and enjoy the experience of shopping at offline stores.
 
 --pic5--
+
+--pic6-- movement
+The picutre aboved show customer cluster movement over the time. 
+
+
+By knowing this, it can be valuable for various businesses in several ways:
+  1) Marketing Campaign Optimization: Businesses can tailor their marketing campaigns and messaging based on the shifting preferences and behaviors of different customer clusters. This ensures that marketing efforts remain relevant and effective.
+  2) Product Development: Understanding how customer clusters evolve can guide product development. It helps in creating products and features that align with changing customer needs and preferences.
+
+## 🏕️ Part2: Product Recommendation
+It is a personalized marketing strategy that suggests specific products or services to individuals based on their past behaviors, preferences, and data analysis. 
+
+## Workshop
+
+--data--
+--code--
+
+we use the same dataset, the different is in the data preperation process, we have to prepare data in form of customer and flag each prodcut in each columns
+
+
+--pic7--
+
+Two algorithm that were used are as following:
+
+--pic8--
+
+--pic9--
+
+
+
+
+
 
 
 
